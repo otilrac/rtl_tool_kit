@@ -3,7 +3,7 @@
 PHONE VERSION http://youtu.be/0jC_Gypt03Q
 
 USB MODEM DEMO https://www.youtube.com/watch?v=TCQQ0zFjzZI
-
+KALI LINUX VERSION decoding sms  http://youtu.be/XHO9wbf7x-c and https://www.youtube.com/watch?v=R9cRSqgMAcs
 About me & app
 
 Created this app to have everything in one place for gsm debugging:)
