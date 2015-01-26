@@ -1,10 +1,19 @@
 # rtl_tool_kit
+videos private for time being if you want more information contact me.
+
+I dont want to turn this Into a script kiddy tool.
 
 PHONE VERSION http://youtu.be/0jC_Gypt03Q
 
 USB MODEM DEMO https://www.youtube.com/watch?v=TCQQ0zFjzZI
 
 KALI LINUX VERSION decoding sms  http://youtu.be/XHO9wbf7x-c and https://www.youtube.com/watch?v=R9cRSqgMAcs
+
+
+Now working on http://youtu.be/Z8lMWni-VgM
+So all is implimented to airprobe and wont need my main app.
+
+
 About me & app
 
 Created this app to have everything in one place for gsm debugging:)
