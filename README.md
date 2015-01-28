@@ -1,16 +1,14 @@
 # rtl_tool_kit
-videos private for time being if you want more information contact me.
-
-I dont want to turn this Into a script kiddy tool.
-
-PHONE VERSION http://youtu.be/0jC_Gypt03Q
-
-USB MODEM DEMO https://www.youtube.com/watch?v=TCQQ0zFjzZI
-
-KALI LINUX VERSION decoding sms  http://youtu.be/XHO9wbf7x-c and https://www.youtube.com/watch?v=R9cRSqgMAcs
 
 
+
+PHONE VERSION https://www.youtube.com/watch?v=KtVBuUDGWVE
+
+USB MODEM DEMO https://www.youtube.com/watch?v=ZCwWpfxKHjI
+
+*****UPDATE******
 Gsm-reciver airprobe rtl tool kit mod update https://www.youtube.com/watch?v=lkohNmAqy8w
+
 will be implimented in https://github.com/ptrkrysik/gr-gsm probably soon also and all future mods will be there.
 
 
