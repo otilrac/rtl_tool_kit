@@ -10,8 +10,8 @@ USB MODEM DEMO https://www.youtube.com/watch?v=TCQQ0zFjzZI
 KALI LINUX VERSION decoding sms  http://youtu.be/XHO9wbf7x-c and https://www.youtube.com/watch?v=R9cRSqgMAcs
 
 
-Now working on http://youtu.be/Z8lMWni-VgM
-So all is implimented to airprobe and wont need my main app.
+Gsm-reciver airprobe rtl tool kit mod update https://www.youtube.com/watch?v=lkohNmAqy8w
+will be implimented in https://github.com/ptrkrysik/gr-gsm probably soon also and all future mods will be there.
 
 
 About me & app
