@@ -1,10 +1,12 @@
 # rtl_tool_kit
 
 
-*****Test Your Modem With This**********
+#Test Your Modem With This
+
 https://github.com/banjaxbanjo/SmsFuzzer
 
-*****VIDEOS*********
+#VIDEOS
+
 PHONE VERSION https://www.youtube.com/watch?v=KtVBuUDGWVE
 
 USB MODEM DEMO https://www.youtube.com/watch?v=ZCwWpfxKHjI
