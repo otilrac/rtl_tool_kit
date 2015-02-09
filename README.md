@@ -1,5 +1,21 @@
 # rtl_tool_kit
 
+*****LASTEST UPDATE******
+http://youtu.be/ChCgS1U5hGA
+Here is the lastest update for the airprobe gsm-receiver (rtl tool kit) tmsi linker mod.
+
+Linking tmsi now implimented for auto mode (Gets delreport timestamps from sim card)
+Manual mode to be implimented next.
+
+Also shows tmsi spammer function to monitor tmsi's spamming on the BTS. 
+need to impliment filter next to filter out the tmsi's that are spamming.
+
+Also added function to see how many unique tmsi's are on the BTS (not showed on vid).
+
+Need to add threading so functions dont mess up main GUI thread.
+
+
+
 
 #Test Your Modem With This
 
